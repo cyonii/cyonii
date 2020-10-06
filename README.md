@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 > Warning! You might catch me constantly dumbfounded
+
 ![screenshot](images/cy-dumbfounded.png)
