@@ -4,8 +4,7 @@ I'm a software developer 👨🏼‍💻on a mission to grow and get better with
 ##### Warning! ⚠️
 You might catch me constantly dumbfounded
 
-<img src="images/cy-dumbfounded.png" width="120">
-<img src="images/cy-dumbfounded.png" width="120">
+<img src="images/cy-dumbfounded.png" width="120"><img src="images/cy-dumbfounded.png" width="120">
 
 ### Tech and Tools 🛠
 
