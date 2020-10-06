@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> Warning! You might catch me constantly dumbfounded
+![screenshot](images/cy-dumbfounded.png)
