@@ -16,7 +16,7 @@ You might catch me constantly dumbfounded
 - CSS
 
 ### Life Long Learner 🌱
-I’m currently learning Ruby, Ruby on Rails, Javascript, React/Redux, HTMl, and CSS at [@Microverse](https://github.com/microverseinc)
+I’m currently learning Ruby, Ruby on Rails, Javascript, React/Redux, HTML, and CSS at [@Microverse](https://github.com/microverseinc)
 
 <!--
 **cyonii/cyonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
