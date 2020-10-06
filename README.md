@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> Warning! You might catch me constantly dumbfounded
+> ##### Warning!
+> You might catch me constantly dumbfounded
 
 ![screenshot](images/cy-dumbfounded.png)
+
+### Stats
+[![CY's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyonii&count_private=true&show_icons=true&theme=vue-dark&hide_border=true&custom_title=Kalu's&nbsp;GitHub&nbsp;Stats)](https://github.com/cyonii/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyonii&theme=vue-dark&layout=compact&langs_count=10)](https://github.com/cyonii/github-readme-stats)
