@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a software developer 👨🏼‍💻on a mission to grow and get better with each passing opportunity. No matter how entangled it may get, there's always a way; I'm committed to finding that.
+I'm a software developer 👨🏼‍💻on a mission to grow and get better with each passing opportunity. No matter how entangled it may get, there's always a way; I'm committed to finding that. <br />
 I am currently looking for new opportunities.
 
 ##### Warning! ⚠️
