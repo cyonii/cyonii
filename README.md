@@ -37,15 +37,14 @@ I’m currently learning Ruby, Ruby on Rails, MySQL, Javascript, React/Redux, HT
 ### Stats 📊
 
 <p align="center">
-  <img style="max-width:50%" src="https://github-readme-stats.vercel.app/api?username=cyonii&count_private=true&show_icons=true&theme=vue-dark&hide_border=true">
-  <img style="max-width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyonii&theme=vue-dark&langs_count=10&hide_border=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyonii&count_private=true&show_icons=true&theme=vue-dark&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyonii&theme=vue-dark&langs_count=10&hide_border=true&layout=compact">
 </p>
 
 
 ### Get in Touch 📨
 
-## <a href="https://twitter.com/theOnuoha" style="text-decoration:none" target="_blank" rel="nofollow"><img align="right" alt="CY's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/><span style="display:flex; font-size: 18px">Twitter</span></a>
-## <a href="https://www.linkedin.com/in/cyonii" style="text-decoration:none" target="_blank" rel="nofollow"><img align="right" alt="CY's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><span style="display:flex; font-size: 18px">GitHub</span></a>
-## <a href="https://www.github.com/cyonii" style="text-decoration:none" target="_blank" rel="nofollow"><img align="right" alt="CY's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><span style="display:flex; font-size: 18px">LinkedIn</span></a>
+## <a href="https://twitter.com/theOnuoha" style="text-decoration:none !important" target="_blank" rel="nofollow"><img align="right" alt="CY's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/><b style="display:flex; font-size: 18px">Twitter</b></a>
+## <a href="https://www.linkedin.com/in/cyonii" style="text-decoration:none !important" target="_blank" rel="nofollow"><img align="right" alt="CY's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><b style="display:flex; font-size: 18px">GitHub</b></a>
+## <a href="https://www.github.com/cyonii" style="text-decoration:none !important" target="_blank" rel="nofollow"><img align="right" alt="CY's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b style="display:flex; font-size: 18px">LinkedIn</b></a>
 
 </div>
