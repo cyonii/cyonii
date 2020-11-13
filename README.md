@@ -1,5 +1,3 @@
-<div style="max-width: 800px; margin: auto">
-
 ### Hi there :wave:
 I'm a software developer 👨🏼‍💻on a mission to grow and get better with each passing opportunity. I believe we can solve humanity's problems through technology, that is why I'm here to make my own contribution to that belief. <br />
 I am currently looking for new opportunities.
@@ -46,5 +44,3 @@ I’m currently learning Ruby, Ruby on Rails, MySQL, Javascript, React/Redux, HT
 ## <a href="https://twitter.com/theOnuoha" style="text-decoration:none !important" target="_blank" rel="nofollow"><img align="right" alt="CY's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/><b style="display:flex; font-size: 18px">Twitter</b></a>
 ## <a href="https://www.linkedin.com/in/cyonii" style="text-decoration:none !important" target="_blank" rel="nofollow"><img align="right" alt="CY's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><b style="display:flex; font-size: 18px">GitHub</b></a>
 ## <a href="https://www.github.com/cyonii" style="text-decoration:none !important" target="_blank" rel="nofollow"><img align="right" alt="CY's GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /><b style="display:flex; font-size: 18px">LinkedIn</b></a>
-
-</div>
