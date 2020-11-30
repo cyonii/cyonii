@@ -1,6 +1,6 @@
 ### Hi there :wave:
-I'm a software developer 👨🏼‍💻on a mission to grow and get better with each passing opportunity. I believe we can solve humanity's problems through technology, that is why I'm here to make my own contribution to that belief. <br />
-I am currently looking for new opportunities.
+I am a full-stack web developer who wants to build technologies that contribute to the advancement of the human race. I’m a pragmatic developer who enjoys learning through building. I have particular interests in Artificial Intelligence and video game development.
+
 
 <p align="center">
   <br/> <b>Warning</b> <br/>
