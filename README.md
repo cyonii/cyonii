@@ -11,11 +11,13 @@ I am a full-stack web developer who wants to build technologies that contribute 
 ### Tech and Tools 🛠
 
 - Python
-  - Django
+- Django
+- Ruby
+- Rails
 - Javascript
 - HTML
 - CSS
-  - SASS
+- SASS
 
 ### Life Long Learner 🌱
 I’m currently learning Ruby, Ruby on Rails, MySQL, Javascript, React/Redux, HTML, and CSS at &nbsp; ![](https://img.shields.io/badge/Microverse-blueviolet)
