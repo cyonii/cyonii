@@ -4,7 +4,7 @@ I am a full-stack web developer who wants to build technologies that contribute 
 
 <p align="center">
   <br/> <b>Warning</b> <br/>
-  <i>You might catch me constantly dumbfounded</i> <br>
+  <i>You may catch me constantly dumbfounded</i> <br>
   <img src="images/cy-dumbfounded.png" width="120"><img src="images/cy-dumbfounded.png" width="120">
 </p>
 
