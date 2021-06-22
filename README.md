@@ -9,11 +9,11 @@ I am a full-stack software developer who is passionate about creating technologi
 
 
 ### Tech and Tools 🛠
-I enjoy working with but not limited to python, django, ruby, rails, javascript, bootstrap
+I enjoy working with but not limited to Python, Django, Ruby, Rails, JavaSacript, Bootstrap
 
 ### Life Long Learner 🌱
 
-I’m currently completing a rigorous software development coursework at &nbsp; ![](https://img.shields.io/badge/Microverse-blueviolet). I’m looking to collaborate on python, javascript, and ruby projects
+I’m currently completing a rigorous software development coursework at &nbsp; ![](https://img.shields.io/badge/Microverse-blueviolet). Feel free to reach out to me for collaboration on cool projects.
 
 
 ### Stats 📊
