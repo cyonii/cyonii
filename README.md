@@ -13,7 +13,7 @@ I enjoy working with but not limited to python, django, ruby, rails, javascript,
 
 ### Life Long Learner 🌱
 
-I’m currently completing a rigorous software development coursework at &nbsp; ![](https://img.shields.io/badge/Microverse-blueviolet). I’m looking to collaborate on Python, JS, and Ruby projects
+I’m currently completing a rigorous software development coursework at &nbsp; ![](https://img.shields.io/badge/Microverse-blueviolet). I’m looking to collaborate on python, javascript, and ruby projects
 
 
 ### Stats 📊
