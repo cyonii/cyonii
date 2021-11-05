@@ -1,6 +1,6 @@
 # Hi there :wave:
 
-I am a full-stack web developer helping businesses and individuals transform conceptual ideas into functional computer software. I’m a pragmatic developer, and as such, I enjoy practical learning through building things. I have particular interests in video games development and Mixed Reality.
+I am a full-stack web developer helping businesses and individuals transform conceptual ideas into functional computer software. I’m a pragmatic developer, and as such, I enjoy practical learning through building things. I have particular interests in video games development and IoT.
 
 ---
 
