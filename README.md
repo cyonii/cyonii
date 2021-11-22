@@ -25,7 +25,7 @@ I am a full-stack web developer helping businesses and individuals transform con
 
 ### Life Long Learner 🌱
 
-I am a life-longer learner because I believe that "knowledge is power". We often have to learn things before we can go into practice, but then, we can only learn anything by doing them. Learning is not accomplished by chance; it must be sought with ardour and attended to with diligence. The beautiful thing about learning is that nobody can take it away from you.
+I am a life-longer learner because I believe that "knowledge is power". We often have to learn things before we can go into practice, but then, we can only learn anything by doing them. Learning is not accomplished by chance; it must be sought with ardour and attended to with diligence. The beautiful thing about learning and knowledge is that nobody can take it away from you.
 
 - 🌱 I’m always learning new things
 - 👯 I’m looking to collaborate on Python, JavaScript, and Ruby projects
