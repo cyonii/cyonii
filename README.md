@@ -3,6 +3,8 @@
 I am a full-stack web developer helping businesses and individuals transform conceptual ideas into functional computer software. I’m a pragmatic developer, and as such, I enjoy practical learning through building things. I have particular interests in video games development and IoT.
 
 ---
+![](https://komarev.com/ghpvc/?username=cyonii)
+
 
 <p align="center">
   <br/> <b>Warning</b> <br/>
