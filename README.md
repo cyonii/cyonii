@@ -22,6 +22,8 @@ I am a full-stack web developer who helps businesses and individuals transform c
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D17799%26project%3D%26in%3D0)](https://codetime.dev)
+
 <p align="center">
   <br/> <b>Warning</b> <br/>
   <i>You might catch me constantly dumbfounded</i> <br>
